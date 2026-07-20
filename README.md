@@ -38,7 +38,7 @@ wa_bot/
 ├── package-lock.json
 ├── README.md
 ├── .gitignore
-│── node_modules/  
+│── node_modules/         # Not uploaded
 ├── auth/                 # Not uploaded
 ├── backup/               # Not uploaded
 └── logs/
