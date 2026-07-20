@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# WhatsApp Baileys
+auth/
+backup/
+session/
+auth_info_baileys/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
