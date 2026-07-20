@@ -32,13 +32,13 @@ A REST API for sending WhatsApp messages using the Baileys library. This project
 
 ```
 wa_bot/
-├── node_modules/  
+
 ├── index.js
 ├── package.json
 ├── package-lock.json
 ├── README.md
 ├── .gitignore
-│
+│── node_modules/  
 ├── auth/                 # Not uploaded
 ├── backup/               # Not uploaded
 └── logs/
