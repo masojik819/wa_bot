@@ -32,7 +32,7 @@ A REST API for sending WhatsApp messages using the Baileys library. This project
 
 ```
 wa_bot/
-│
+├── node_modules/  
 ├── index.js
 ├── package.json
 ├── package-lock.json
@@ -40,7 +40,6 @@ wa_bot/
 ├── .gitignore
 │
 ├── auth/                 # Not uploaded
-├── node_modules/         # Not uploaded
 ├── backup/               # Not uploaded
 └── logs/
 ```
